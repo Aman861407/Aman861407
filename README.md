@@ -1,16 +1,22 @@
-## Hi there 👋
+### नमस्ते! मैं हूँ अमन (Aman) 👋
 
-<!--
-**Aman861407/Aman861407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 मैं **Central University of Jammu** से **B.Tech (Computer Science & Engineering)** कर रहा हूँ।  
+💻 मुझे कोडिंग, लॉजिक बिल्डिंग और नई टेक्नोलॉजी सीखना पसंद है।
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 अभी मैं क्या सीख रहा हूँ (Tech Stack)
+- **Languages:** C, Python
+- **Tools & Platforms:** VS Code, Git, GitHub, Jupyter Lab
+
+---
+
+#### 🔗 मेरी कोडिंग प्रोफाइल्स
+- **HackerRank:** [मेरी प्रोफाइल देखें](https://hackerrank.com) *(यहाँ अपना लिंक डालें)*
+- **LeetCode:** [मेरी प्रोफाइल देखें](https://leetcode.com) *(यहाँ अपना लिंक डालें)*
+- **Devfolio:** [मेरी प्रोफाइल देखें](https://devfolio.co) *(यहाँ अपना लिंक डालें)*
+
+---
+
+#### 📊 मेरे GitHub स्टैट्स
+![Aman's GitHub Stats](https://vercel.app)
